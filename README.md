@@ -103,3 +103,35 @@ Due to the success of Debian, which has produced several successful Linux distri
 The Buster release of Debian 10.5 is a straightforward update of the previous version. It includes all the latest updates and new applications as well as security fixes that address pre-existing security issues. If you have your Buster system, there is no reason to discard it. Just use the APT package manager to upgrade. The Debian project encompasses over 59,000 software packages and assists a variety of PCs with each release includes a greater variety of system architectures. In balancing cutting-edge technology with stability, Debian provides three distinct development channels: Stable, Testing, and Unstable. Despite its name, the stable version of OS X is, in fact, rock-solid, and it also comes with the very latest software applications. Working servers, however, may not be desirable due to its stability and reliability. Debian Stable, on the other hand, is what you should use on your computer.
 ![Debian-800x657](https://user-images.githubusercontent.com/81725794/178926600-16773066-0f46-4f74-a55e-68b4bc009a1b.png)
 
+Debian Testing is a testing version of the next major version of Debian. In addition to operating with instability issues and frequently lacking security updates, it is also difficult to use and may even crash. The latest Bullseye version of Debian Testing is available. It is a development phase of the next stable version of Debian.
+
+A good starting point for new Debian developers is the unstable distro, which acts as a perfect testing ground for code changes. It is an experimental distro and must be treated with caution until it transitions to the ‘Testing’ stage. Millions of users take advantage of the stable environment provided by Debian packages because of its large repository and its proven stability.
+
+Gentoo
+
+Gentoo is a Linux distribution specifically built for experts. It includes developers, network administrators, and other experts. Users who are just beginning to learn Linux would not enjoy using it. One of the reasons Gentoo is recommended is that it offers more information about Linux than other Linux distributions.
+![Gentoo-800x691](https://user-images.githubusercontent.com/81725794/178926791-fe80eb16-984c-4e47-bca7-e053892c56d1.png)
+
+Portage, which is present on every Gentoo distribution, is likewise a native element of other similar organizations such as Sabayon and Calculate Linux, as well as of Gentoo itself. The port collections concept, which is based on the ports’ collections, is Python-based and draws inspiration from Portage. BSD-based distros such as OpenBSD and NetBSD provide Port collections.
+
+Ubuntu
+
+One of the most well-known Linux distributions is Canonical’s Ubuntu, which has been enjoyed by beginners, intermediate users, and professionals around the world for decades. The Ubuntu was specifically designed for newcomers in Linux or those moving from Mac OS and Windows.
+
+![Ubuntu-800x535](https://user-images.githubusercontent.com/81725794/178926906-1827d54a-72ef-443a-b040-27c651612cea.png)
+
+Installation of the GNOME desktop environment is enabled by default in Ubuntu. Firefox, LibreOffice, and other everyday applications are preinstalled. Furthermore, Audacious, Rhythmbox, and other music players and video watchers are available.
+
+There is no other operating system that is as easy to use and as pretty to look at as Ubuntu. It is particularly well-suited for novice Linux users, who are trying to make the most of the operating system. As stated previously, it is simple for beginners to start using default apps.
+
+There are various versions of Ubuntu Studio, which are geared towards creative professionals who produce multimedia content.
+
+Linux Mint
+
+Linux Mint is a huge section of the Linux fan community based on Ubuntu that has grown to provide one of the greatest, and most intuitive distributions loved by desktop users and professionals. Despite the controversy surrounding Mint 20’s disappearance of snap support, it remains a stable, powerful, and excellent Linux distribution despite the setback.
+![Linux-Mint-800x585](https://user-images.githubusercontent.com/81725794/178927024-157d9d8d-25a1-4f3e-9f66-0c4af7046afe.png)
+
+The Warpinator portfolio includes a LAN- and fractional-scaling file-sharing program that works in a LAN. It also includes applications such as Firefox, LibreOffice, Audacious, the Timeshift, and Thunderbird for everyday use such as browsing.
+
+Mint is a popular Linux distribution that is known for its stability and performance. It is ideal if you want to listen to music, watch videos, and even play games. Mint 20 is a long-term update and will receive support until 2025.
+
