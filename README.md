@@ -8,3 +8,33 @@ Aside from being a freely available open source alternative to Microsoft’s ope
 What is the Linux operating system?
 
 Despite the fact that the Linux kernel is the key component in the operating system, most of the components are open source. Linux is one of the only open source operating systems, and the kernel is the hub of the operation. The bootloader, graphical server, daemons, desktop environment, and application software all play a part in the Linux operating system. Linux, unlike other operating systems, is successful for its various advantages, including ease of use and acquisition, higher security, more customization options, less maintenance, available on any brand’ devices, and stable, to name a few.
+
+Linux Architecture
+
+A computer’s operating system interface to the hardware is referred to as a software application. A number of software applications are run on operating systems to manage hardware resources on a computer.
+
+The diagram illustrates the structure of the Linux system, according to the layers concept.
+![Linux-Architecture-800x569](https://user-images.githubusercontent.com/81725794/178925606-1bba3b73-cd1c-4a5f-a48b-5ac9da97aba6.png)
+
+The Linux architecture is largely composed of elements such as the Kernel, System Library, Hardware layer, System, and Shell functions.
+
+Kernel: The kernel is one of the fundamental parts of an operating system. It is responsible for each of the primary duties of the Linux OS. Each of the major procedures of Linux is coordinated with hardware directly. The kernel is in charge of creating an appropriate abstraction for concealing trivial hardware or application strategies. The following kernel varieties are mentioned:
+
+1. Monolithic Kernel 
+2. Micro kernels 
+3. Exo kernels 
+4. Hybrid kernels
+
+System Libraries: A set of library functions may be specified as these functions. These functions are implemented by the operating system and do not require code access rights on the kernel modules.
+
+System Utility Programs: A system utility program performs specific and individual jobs.
+
+Hardware layer: The hardware layer of Linux is made up of several peripheral devices such as a CPU, HDD, and RAM.
+
+Shell: Different operating systems are classified as graphical shells and command-line shells. A graphical shell is an interface between the kernel and the user. It provides kernel services, and it runs kernel operations. There are two types of graphical shells, which differ in appearance. These operating systems are divided into two categories, which are the graphical shells and command-line shells.
+
+The graphical line shells allow for graphical user interfaces, while the command line shells enable for command line interfaces. As a result, both of these shells operate. However, graphical user interfaces performed using the graphical line shells are faster than those using the command line shells.
+
+
+
+
