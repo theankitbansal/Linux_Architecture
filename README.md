@@ -36,5 +36,18 @@ Shell: Different operating systems are classified as graphical shells and comman
 The graphical line shells allow for graphical user interfaces, while the command line shells enable for command line interfaces. As a result, both of these shells operate. However, graphical user interfaces performed using the graphical line shells are faster than those using the command line shells.
 
 
+Linux Operating System Features
+
+A list of some of the significant attributes of Linux is provided.
+
+![Linux-Operating-System-Features-800x690](https://user-images.githubusercontent.com/81725794/178925889-47054e20-e49c-480f-83cc-71551a43d4d6.png)
+
+1. Software that is portable operates the same on every type of hardware. Because of the Linux kernel and application programs’ support, they may be installed on any kind of hardware platform.
+2. The Linux operating system is community-based, and code for improving its capabilities is freely available. Linux is constantly evolving, so multiple teams work in conjunction to make it better.
+3. A multiuser system, like Linux, means that multiple users can access the same resources, such as memory/ RAM/applications.
+4. Multiple applications can run at the same time in Linux.
+5. Linux operates according to a standard file format, in which system files are placed first and user files last.
+6. Linux commands can be executed through the Linux interpreter program. It can be used for a variety of purposes, as well as calling application programs.
+7. Authentication features like password protection/controlled access to specific files/encryption of data are employed by Linux to provide user security.
 
 
