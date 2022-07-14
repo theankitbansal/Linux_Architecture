@@ -50,4 +50,56 @@ A list of some of the significant attributes of Linux is provided.
 6. Linux commands can be executed through the Linux interpreter program. It can be used for a variety of purposes, as well as calling application programs.
 7. Authentication features like password protection/controlled access to specific files/encryption of data are employed by Linux to provide user security.
 
+Linux Operating System Applications
+
+Here are the following application of Linix operating system:
+Google Chrome Browser
+
+Unlike Google Chrome, which is difficult to replace by almost all Linux distributions, Mozilla Firefox is a tough competitor. However, Chrome has some advantages over it. You can synchronize bookmarks, history, extensions, and other items from Chrome on other operating systems and mobile devices with Chrome browsers on your Google accounts. Because of the old Flash player in Google Chrome on Linux, other web browsers on Linux, such as Mozilla Firefox and Opera, cannot be used with Flash because Google Chrome is up-to-date.
+
+Steam
+
+It has become a reality for Linux gamers that they can play their favorite games on Valve’s Steam gaming client. In 2013, Valve announced Steam for Linux, and everything has transformed since then. Even before switching to Linux from Windows, users were reluctant to do so. Things are different now, though. It is not difficult to install Steam on Linux, but thousands of Steam games are available, so get started if you have the required hardware. You might find some popular high-end games like Counter Strike: Global Offensive, Hitman, Dota 2, difficult to play on Linux, but you only need to ensure you have the correct hardware to play them.
+
+WordPress Desktop Client
+
+On the desktop client for Ubuntu, you can write and design WordPress sites using WordPress. Desktop client does not need to be switched between browser tabs to switch between writing and designing. If you run WordPress-based websites from your desktop, the desktop client is an essential app to have. You may view all of WordPress’s alerts in one single window, as well as check performance statistics for posts. You may download and install the desktop client from Ubuntu Software Center if you wish to.
+
+VLC Media Player
+
+VLC is a pretty common media player that’s available in Ubuntu as well. What makes it such a good one is that it can play nearly all video formats on the planet without problems. VLC has a straightforward interface, which is very easy to use. It has a variety of features, including online video playback, audio, and video modifications, among others.
+
+Atom Text Editor
+Atom, an open-source text editor that can also be used as an Integrated Development Environment (IDE) for coding and editing in major programming languages, was created by Github. It is completely hackable, 21st Century text editor. The interface of Atom Text Editor is excellent, and it has a number of useful features such as autocompletion, syntax coloring, and plug-in support.
+
+GIMP Photo Editor
+
+Whereas Adobe Photoshop is probably a better alternative to it on Windows, GIMP (GNU Image Manipulation Programme) is a photo editor for Ubuntu. It is arguably one of the best choices for Windows users looking for a better alternative to Adobe Photoshop. If you are having trouble adjusting to Adobe Photoshop and are hungry for a similar experience, you can automate GIMP to appear similar to it. You can always install extensions and plug-ins from GIMP to get extra features, so you don’t have to.
+
+YouTube Music
+
+In December 2020, as part of Google’s shift from Play music to YouTube Music, Google Play music player is no longer available on Android, Windows, and Linux. Whereas Google Music Player has a difficult interface, YouTube Music has a much nicer one. To listen to your favorite music without interruptions, you must subscribe to premium subscription, which can also be used on YouTube Premium. With premium subscription, you can listen to music at 256kbps AAC on the Music Player Premium. The free version of the Music Player allows you to listen to music at 128kbps AAC. There are a lot of genres to enjoy with.
+
+Skype
+
+Now, too, can Linux users enjoy the video- and voice-calling capabilities of Skype. Skype is an instant messaging and screen-sharing app that allows for voice and video chats, as well as desktop screen sharing. There are some similarities between the Skype interface on Windows and desktop client on macOS, but it is very simple to use. Many Windows switchers may find using this app useful.
+
+Blender
+
+Blender is a free and open-source 3D modeling application that you can use to create 3D printed objects, films, games, etc. With just a few clicks, you can set up a game engine that generates video games. Blender has a very simple interface, and it includes a variety of functions, including digital sculpting, simulation tools, animation tools, and more. It is one of the best applications available for Ubuntu because it is free.
+
+Telegram
+
+The rapid growth of Telegram in recent years has resulted in its widespread popularity. It is a free and open-source instant messaging and VoIP service that allows users to share videos, photos, audio, and other files. Telegram has a lot of great features, including secret chat, voice messages, bots, telescopes for video messages, live locations, and social login. Telegram’s security and privacy are its top priorities, so all of your conversations are end-to-end encrypted.
+
+Linux Distribution
+
+The growing popularity of Linux as a free and open-source operating system has spawned a number of variations over the years, expanding its boundaries to include a large community of users. From desktop/home users to corporate environments, Linux has made sure that each segment has something to be happy about.
+
+Debian
+
+Due to the success of Debian, which has produced several successful Linux distributions such as Deepin, Ubuntu, and Mint, many popular Linux distributions such as Mint, Deepin, and Ubuntu are now available in Debian. 10.5, the latest stable release of Debian, is an up-to-date edition of Debian.
+
+The Buster release of Debian 10.5 is a straightforward update of the previous version. It includes all the latest updates and new applications as well as security fixes that address pre-existing security issues. If you have your Buster system, there is no reason to discard it. Just use the APT package manager to upgrade. The Debian project encompasses over 59,000 software packages and assists a variety of PCs with each release includes a greater variety of system architectures. In balancing cutting-edge technology with stability, Debian provides three distinct development channels: Stable, Testing, and Unstable. Despite its name, the stable version of OS X is, in fact, rock-solid, and it also comes with the very latest software applications. Working servers, however, may not be desirable due to its stability and reliability. Debian Stable, on the other hand, is what you should use on your computer.
+![Debian-800x657](https://user-images.githubusercontent.com/81725794/178926600-16773066-0f46-4f74-a55e-68b4bc009a1b.png)
 
