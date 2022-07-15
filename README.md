@@ -202,3 +202,14 @@ Advantages of Linux Architecture
 13. The installation process is quick and easy to use. It also works on old computer systems, making it easy to install.
 14. Even if the hard disk is full, the computer performs properly because it has enough room.
 
+Disadvantages of Linux Architecture
+
+1. Some hardware drivers are not available for Linux, which is one of the challenges faced by Linux users. Windows or Mac drivers are preferred by hardware manufacturers because they have more users as opposed to Linux.
+2. Beginners to windows are not difficult to start with, however, learning Linux is a bit challenging. Command-lines and locating new software are also a bit challenging. Linux is less expertised than windows and mac, which makes it more difficult to find expertise for Linux.
+3. Photoshop, a widely used graphic-editing programme is available for Windows, but not on Linux. Other photo-editing software are not as powerful, but Photoshop is. MS Office is another option that is not available on Linux.
+4. Many games are produced for Windows but not Linux. Because Windows is widely used, developers are willing to work on it.
+
+
+Conclusion
+
+An operating system is a set of software that controls the computer hardware and assists computer programs in exchange for resources. It is what connects the computer hardware with the software running on a computer. A computer system’s system software consists of the operating system, which serves as the platform for a wide range of applications. The operating system provides a platform for a user to employ nearly any program in an efficient or convenient manner. Although Linux OS is one of the famous versions of the UNIX OS, it is also available as a free OS. It is one of the most popular versions of the UNIX OS because it includes an X Window System, an Emacs editor, TCP/IP, a graphical user interface, and many other functions.
