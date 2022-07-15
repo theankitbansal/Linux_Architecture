@@ -135,3 +135,23 @@ The Warpinator portfolio includes a LAN- and fractional-scaling file-sharing pro
 
 Mint is a popular Linux distribution that is known for its stability and performance. It is ideal if you want to listen to music, watch videos, and even play games. Mint 20 is a long-term update and will receive support until 2025.
 
+Red Hat Enterprise Linux
+
+The open-source alternative to Microsoft’s systems, Red Hat Enterprise Linux is one of the biggest open-source alternatives. It’s used by large corporations as a Linux distribution. The stability and security patches that accompany Red Hat Enterprise Linux make it a popular choice in server environments.
+![Red-Hat-Enterprise-Linux-800x648](https://user-images.githubusercontent.com/81725794/179149953-f5fea0d0-8a9b-48ed-9e4a-9eda96a61a16.png)
+
+Just about any physical server or virtualized environment can be used to run containers, provided you have the right resources. OpenShift PaaS (platform as a service), a hybrid cloud environment that uses Docker containers and Kubernetes (platform as a service), is based on Red Hat’s containerisation technology.
+
+The Linux Subscription-Based Distribution RHEL is the ideal choice if you want to get the most out of your Linux experience. The annual subscription is available for Linux Developer Workstation, Linux developer suite, and Linux for Virtual Datacenters.
+
+A number of Red Hat and its related products, including CentOS, still utilise yum package management. However, Ootpa (RHEL 8) uses DNF as its default package manager now. The BaseOS is distributed in two primary repositories – AppStream and BaseOS. When you install applications on BaseOS, you are using the AppStream repository (Application Stream) to supply all the apps you want. When you install apps on AppStream, you are using the BaseOS repository (core functionality) to supply only those apps you need.
+
+CentOS
+
+The purpose of the CentOS Project is to create an open source operating environment that is sturdy and reliable. Based on RHEL, it is an excellent alternative to Red Hat Enterprise Linux since it is free to download and install. With the stability and reliability of RHEL, users can enjoy free security and feature upgrades without experiencing any downtime. Linux enthusiasts who desire to enjoy the advantages of RHEL’s RHEL are keen on CentOS 8.
+
+![CentOS-800x668](https://user-images.githubusercontent.com/81725794/179150033-2a7465a9-1ef2-4484-80e6-e5158112a7e2.png)
+Centos 8.2, the third revision of CentOS, is based on App stream and BaseOS repositories and includes the most recent software packages such as Python 3.8, GCC 9.1, Maven 3.6, and others.
+
+
+
