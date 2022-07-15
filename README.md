@@ -177,3 +177,28 @@ Arch Linux is a versatile and powerful Linux distribution for advanced users and
 ![Arch-Linux-800x493](https://user-images.githubusercontent.com/81725794/179150244-ac849e1d-2a48-40ec-91d0-109cd491d2fa.png)
 
 Arch is a constant update that constantly receives the most recent version of software and is managed using Pacman. The AUR (Arch User Repository) is used to obtain the latest version of software. There are two methods to install software packages and 2020.09.01 is the current version.
+
+OpenSUSE
+
+The OpenSUSE project aims to be a modern and complete community project. Because it is intended for desktop users as well as enterprise development and testing, it is a perfect choice for open source developers and System administrators.
+![OpenSUSE-800x493](https://user-images.githubusercontent.com/81725794/179150359-ca6a983a-9f08-4c80-8ea4-29dedcbc5bc1.png)
+
+SUSE Tumbleweed, on the other hand, is a rolling-release distribution that includes the latest software stacks and IDEs and is closest to a bleeding-edge distribution. The Nest Intelligence Suite is a power user’s or software developer’s dream thanks to the availability of up-to-date packages such as office applications, GCC compiler, and the kernel.
+
+Advantages of Linux Architecture
+
+1. Linux is an open-source operating system that has several advantages over other operating systems. Because the code is freely available and anyone may modify it and distribute it, Linux is popular for contributions and modifications.
+2. As far as security is concerned, Linux is much more secure than any other operating system. It does not mean that Linux is entirely secure, however. It is far less vulnerable to infections than any other operating system. There is no need for anti-virus software on Linux.
+3. The Linux software updates are straightforward and frequent.
+4. You can use a Linux distribution of your choice in accordance with your preferences or your needs.
+5. Freely available Linux software is used on the Internet.
+6. Linux has plenty of community support.
+7. The CPU and memory of a computer generally stay stable and do not slow down or freeze. A computer can be rebooted after a short time if it stops or freezes.
+8. The purpose of the application is to preserve the privacy of the user.
+9. Although other operating systems can deliver high performance, Linux excels because it allows a large number of people to work at the same time, and because it manages them efficiently.
+10. The popularity of Linux makes it network friendly.
+11. You do not need to purchase a Linux operating system suit to get the flexibility you want; you may install only the components you need.
+12. Linux is capable of handling a wide range of file formats.
+13. The installation process is quick and easy to use. It also works on old computer systems, making it easy to install.
+14. Even if the hard disk is full, the computer performs properly because it has enough room.
+
