@@ -153,5 +153,27 @@ The purpose of the CentOS Project is to create an open source operating environm
 ![CentOS-800x668](https://user-images.githubusercontent.com/81725794/179150033-2a7465a9-1ef2-4484-80e6-e5158112a7e2.png)
 Centos 8.2, the third revision of CentOS, is based on App stream and BaseOS repositories and includes the most recent software packages such as Python 3.8, GCC 9.1, Maven 3.6, and others.
 
+Fedora
 
+There have been a lot of people who have liked the fact that Fedora is one of the most user-friendly distributions for a while now because of its simplicity and default applications which make new users able to get started right away.
 
+Whether they’re meant for desktops, laptops, or servers, Fedora’s open-source operating system is tailored to those platforms and ecosystems. In fact, it’s similar to CentOS, a Red Hat-developed system that is used as a testing ground for Red Hat before transitioning to the Enterprise phase. Developers and students who use it may also benefit from its functionality.
+![Fedora-800x611](https://user-images.githubusercontent.com/81725794/179150119-52cd6ced-0722-4f60-9b81-385c5cdc0688.png)
+
+The latest and the very best in RPM software packages are available from Fedora. Fedora 32 uses DNF (and still does) as its default package manager and features the most up-to-date and top-quality RPM software packages.
+
+Kali Linux
+
+Kali Linux is a Debian-based Linux distribution designed for digital forensics and penetration testing. Nmap, Metasploit Framework, Maltego, and Aircrack-ng, among other tools, are included by default. It is developed and maintained by offensive security.
+
+![Kali-Linux-800x492](https://user-images.githubusercontent.com/81725794/179150188-540620de-1fbd-48f1-a79a-2ebf2a04b56f.png)
+
+Penetration testers who wish to advance their skills in Kali Linux can take advantage of this Linux distribution. Kali Linux Certified Professional and Penetration Testing with Kali are industry-standard certifications that are provided by Kali Linux.
+
+Arch Linux
+
+Arch Linux is a versatile and powerful Linux distribution for advanced users and Linux experts. It offers freedom to choose, providing an ideal environment for customization or configuration. In all, Arch is geared towards individuals who are well-versed in Linux’s intricacies and capabilities.
+
+![Arch-Linux-800x493](https://user-images.githubusercontent.com/81725794/179150244-ac849e1d-2a48-40ec-91d0-109cd491d2fa.png)
+
+Arch is a constant update that constantly receives the most recent version of software and is managed using Pacman. The AUR (Arch User Repository) is used to obtain the latest version of software. There are two methods to install software packages and 2020.09.01 is the current version.
